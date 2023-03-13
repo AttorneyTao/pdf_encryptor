@@ -1,2 +1,2 @@
 # pdf_encryptor
-encrtpt and calculate md5
+encrypt(print only by default) and calculate md5(checksum)
